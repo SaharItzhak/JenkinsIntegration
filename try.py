@@ -8,4 +8,5 @@ assert "Google" in driver.title
 
 time.sleep(2)
 print("Success")
+print("I have made some changes!")
 driver.quit()
